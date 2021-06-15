@@ -1,9 +1,9 @@
 # Restore ROI Data To OMERO from Database Files
-## 20210615 Laura Cooper
+20210615 Laura Cooper
 
 Read text files generated from database and import recoved ROIs to the associated images. Use for the case where images/ROIs have been accidentally deleted.
 
-###Installation:
+## Installation:
 
 conda create -n myenv
 conda activate myenv
