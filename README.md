@@ -5,10 +5,10 @@ Read text files generated from database and import recoved ROIs to the associate
 
 ## Installation:
 
-conda create -n myenv
-conda activate myenv
-conda install notebook
-pip install omero-py
+conda create -n myenv \
+conda activate myenv \
+conda install notebook \
+pip install omero-py \
 conda install pandas
 
 ## Package versions
